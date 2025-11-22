@@ -573,7 +573,6 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 | ⬆️ | [TheBlue.social](https://theblue.social) | Save time, Publish everywhere | **15% off** on monthly and lifetime plans with code **BLACKFRI2025** | 2025-12-31 |
 | 🧡 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% off** yearly plan with code **BF2025** | 2025-12-30 |
-| 📝 | [Typoro](https://typoro.com/?ref=rare-big-deal) | AI tool for writing, editing, and scheduling LinkedIn posts | **30% OFF for 3 months with code BLACKFRIDAY** | 2025-12-05 |
 
 
 ### Sales Tools
@@ -606,6 +605,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖼️ | [SnapShots](https://www.getsnapshots.app/image-editor) | Turn your boring screenshots into stunning visuals. Create beautiful mockups, Open Graph images, and social banners effortlessly with zero design skills. | Life time Deal $9 |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
 | ▶️ | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis and more. | **BFCM25** for 30% OFF on all Plans | 2025-12-04 |
+| ✍️ | [Typoro](https://typoro.com) | AI tool for writing, editing, and scheduling LinkedIn posts | **30% OFF for 3 months with code BLACKFRIDAY** | 2025-12-05 |
 
 
 ### Affiliate Marketing
